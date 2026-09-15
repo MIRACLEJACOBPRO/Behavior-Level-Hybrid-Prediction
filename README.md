@@ -3,7 +3,7 @@ Official repository for "Dynamic Action Verification for Embodied Agents via Beh
 
 **Look Before You Leap: Dynamic Action Verification for Embodied Agents via Behavior-Level Hybrid Prediction**
 
-EADAV provides dynamic action verification for embodied agents by jointly modeling discrete task semantics and continuous physical dynamics. It maintains hybrid historical knowledge using a hidden semi-Markov model and an unscented Kalman filter, predicts candidate behaviors over a finite horizon, and evaluates semantic and physical risks before action execution.
+It provides dynamic action verification for embodied agents by jointly modeling discrete task semantics and continuous physical dynamics. It maintains hybrid historical knowledge using a hidden semi-Markov model and an unscented Kalman filter, predicts candidate behaviors over a finite horizon, and evaluates semantic and physical risks before action execution.
 
 ## Repository Status
 
